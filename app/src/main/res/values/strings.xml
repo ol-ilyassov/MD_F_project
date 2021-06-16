@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="please_wait">Please Wait&#8230;</string>
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="refresh">Refresh</string>
+    <string name="back">Back button</string>
+    <string name="city_value">-</string>
+    <string name="city_title">City:</string>
+    <string name="country_title">Country:</string>
+    <string name="country_value">-</string>
+    <string name="weather_image">Image of weather</string>
+    <string name="weather_title">Weather:</string>
+    <string name="weather_value">-</string>
+    <string name="weather_description">Description:</string>
+    <string name="weather_description_value">-</string>
+    <string name="temperature_title">Temperature:</string>
+    <string name="temperature_value">0°C</string>
+    <string name="humidity_title">Humidity:</string>
+    <string name="humidity_value">0 per cent</string>
+    <string name="wind_title">Wind:</string>
+    <string name="wind_value">0 miles/hour</string>
+    <string name="date_value">0000/00/00</string>
+    <string name="time_value">00:00</string>
+    <string name="iv_weather">Weather Image</string>
+    <string name="tv_welcome">- Weather App -</string>
+    <string name="btn_search_location">Search Location</string>
+    <string name="btn_my_location">My Location</string>
+    <string name="btn_search">Button with search icon</string>
+    <string name="not_found">- EMPTY -</string>
+    <string name="date_title">Date:</string>
+</resources>
