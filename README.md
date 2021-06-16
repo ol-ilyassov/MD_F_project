@@ -1,11 +1,12 @@
 # Mobile Development 2
-# Final Work
+
+- Final Work
 
 - Project Name: Weather App
 - Author Olzhas Ilyassov 
 - Group: SE1902
 
-- Final Exam Requirements
+- Final Exam Requirements:
 1. Forecast for at least 2 cities
 
 2.  All the parameters of the weather (see models) and changeable icons
